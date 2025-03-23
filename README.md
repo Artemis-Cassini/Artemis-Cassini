@@ -1,8 +1,4 @@
-Likes: Coding, Music, Space, Art
-Learning: Too many things
-Can Reach Me Via: Discord
-Pronouns: He/They
-I love my dog <3
+My name is Artemis and here is where I store my silly projects, some are smart, some are dumb, some are random, and some are fun! I like a lot of games and I love my dog so much, her name is Poppy!! I hope you'll choose to look at some projects on here!
 
 <!---
 Artemis-Cassini/Artemis-Cassini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
