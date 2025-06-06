@@ -27,10 +27,10 @@
 
 | Project | Description |
 |--------|-------------|
-| Dimensional Analysis Calculator | Converts nearly every conversion, will have it's own website soon but I'm lazy
+| Dimensional Analysis Calculator | Converts nearly every conversion, now has it's own website
 | Collatz-Conjecture | Helps me determine certain numbers and their steps to get back to 1 in the Collatz-Sequence
 | Password Projects | I've built various password projects to help me store and make them
-| Rust & Ruby | Personal assistan project I'm working on
+| Rust & Ruby | Personal assistant project I'm working on
 | Barcode Scanner Storage | Barcode scanner that saves the barcode to a spreadsheet for storage
 
 ---
